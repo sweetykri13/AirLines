@@ -1,0 +1,15 @@
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\bin\Debug\net6.0\appsettings.json
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\bin\Debug\net6.0\DALBookAirLinesTicket.deps.json
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\bin\Debug\net6.0\DALBookAirLinesTicket.runtimeconfig.json
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\bin\Debug\net6.0\DALBookAirLinesTicket.dll
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\bin\Debug\net6.0\DALBookAirLinesTicket.pdb
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\obj\Debug\net6.0\DALBookAirLinesTicket.csproj.AssemblyReference.cache
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\obj\Debug\net6.0\DALBookAirLinesTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\obj\Debug\net6.0\DALBookAirLinesTicket.AssemblyInfoInputs.cache
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\obj\Debug\net6.0\DALBookAirLinesTicket.AssemblyInfo.cs
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\obj\Debug\net6.0\DALBookAirLinesTicket.csproj.CoreCompileInputs.cache
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\obj\Debug\net6.0\DALBookAirLinesTicket.dll
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\obj\Debug\net6.0\refint\DALBookAirLinesTicket.dll
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\obj\Debug\net6.0\DALBookAirLinesTicket.pdb
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\obj\Debug\net6.0\DALBookAirLinesTicket.genruntimeconfig.cache
+D:\AirLines\BookAirLinesTicket\DALBookAirLinesTicket\obj\Debug\net6.0\ref\DALBookAirLinesTicket.dll
